@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  quartz:
+    image: registry.mj-dev.site/quartz:latest
+    ports:
+      - "80"
+    deploy:
+      placement:
+        constraints:
+          - node.hostname==docker-desktop
+      replicas: 1
+    networks:
+      - dokploy-network
+
+networks:
+  dokploy-network:
+    external: true
