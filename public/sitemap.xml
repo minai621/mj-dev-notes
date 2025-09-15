@@ -1,4 +1,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://notes.mj-dev.site/</loc>
     <lastmod>2025-09-14T16:52:18.921Z</lastmod>
+  </url><url>
+    <loc>https://notes.mj-dev.site/llm/PRD</loc>
+    <lastmod>2025-09-15T17:42:37.541Z</lastmod>
+  </url><url>
+    <loc>https://notes.mj-dev.site/llm/claude-tips</loc>
+    <lastmod>2025-09-15T18:06:13.024Z</lastmod>
+  </url><url>
+    <loc>https://notes.mj-dev.site/llm/llm-leaning-sites</loc>
+    <lastmod>2025-09-15T17:54:11.180Z</lastmod>
+  </url><url>
+    <loc>https://notes.mj-dev.site/llm/workout-code-agent</loc>
+    <lastmod>2025-09-15T17:53:33.161Z</lastmod>
   </url></urlset>

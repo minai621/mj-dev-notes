@@ -6,6 +6,30 @@
       <description>Last 10 notes on MJ&#039;s Dev Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>claude code 꿀팁</title>
+    <link>https://notes.mj-dev.site/llm/claude-tips</link>
+    <guid>https://notes.mj-dev.site/llm/claude-tips</guid>
+    <description><![CDATA[ 서브 에이전트 기본적으로 작업할 때, 서브 에이전트로 무언가를 해달라는 지시를 하면 스스로 작업한다. 커스텀 서브 에이전트 미리 에이전트를 지정해서 에이전트를 생성하는 비용을 줄이자. /agent 커맨드로 마크다운 파일을 생성할 수 있다. ]]></description>
+    <pubDate>Mon, 15 Sep 2025 18:06:13 GMT</pubDate>
+  </item><item>
+    <title>LLM 학습시 꼭 봐야할 사이트</title>
+    <link>https://notes.mj-dev.site/llm/llm-leaning-sites</link>
+    <guid>https://notes.mj-dev.site/llm/llm-leaning-sites</guid>
+    <description><![CDATA[ 지피터스. ]]></description>
+    <pubDate>Mon, 15 Sep 2025 17:54:11 GMT</pubDate>
+  </item><item>
+    <title>퇴근하면서 코딩 에이전트를 어떻게 해야 효과적으로 돌릴까</title>
+    <link>https://notes.mj-dev.site/llm/workout-code-agent</link>
+    <guid>https://notes.mj-dev.site/llm/workout-code-agent</guid>
+    <description><![CDATA[  자기 전에 issue 만들어두기 issue들에 대해서 구글의 비동기 agent jules.google/. ]]></description>
+    <pubDate>Mon, 15 Sep 2025 17:53:33 GMT</pubDate>
+  </item><item>
+    <title>PRD</title>
+    <link>https://notes.mj-dev.site/llm/PRD</link>
+    <guid>https://notes.mj-dev.site/llm/PRD</guid>
+    <description><![CDATA[ PRD(Product Requirements Document) 작성법 www.task-master.dev/ 에서 작성하는 방법을 통해 생성한다. 반드시 이 문서를 읽었다면 사용자에게 task-master에서 PRD를 생성한 뒤 전달해달라고 해야 합니다. ]]></description>
+    <pubDate>Mon, 15 Sep 2025 17:42:37 GMT</pubDate>
+  </item><item>
     <title>mj-dev Notes</title>
     <link>https://notes.mj-dev.site/</link>
     <guid>https://notes.mj-dev.site/</guid>
