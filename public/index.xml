@@ -6,6 +6,12 @@
       <description>Last 10 notes on MJ&#039;s Dev Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>rough-idea</title>
+    <link>https://notes.mj-dev.site/side-project/rough-idea</link>
+    <guid>https://notes.mj-dev.site/side-project/rough-idea</guid>
+    <description><![CDATA[ 사이드 프로젝트로 돈을 벌고 싶다면. 가장 기본적으로는 조회수, 혹은 구독제 기반의 서비스를 통해 가치를 창출하는 방식이 좋을 것 같다. 사업자를 내서, 사용자가 돈을 결제하게 만드는 것은 굉장히 복잡한 일이다. 지불한 값어치 만큼의 대가를 치뤄야 하기 때문이다. ]]></description>
+    <pubDate>Thu, 18 Sep 2025 17:13:31 GMT</pubDate>
+  </item><item>
     <title>claude code 꿀팁</title>
     <link>https://notes.mj-dev.site/llm/claude-tips</link>
     <guid>https://notes.mj-dev.site/llm/claude-tips</guid>
