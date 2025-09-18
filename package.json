@@ -14,6 +14,7 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "build": "npx quartz build",
+    "upload:registry": "docker buildx build --platform linux/amd64,linux/arm64 -t registry.mj-dev.site/quartz:latest --push .",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
